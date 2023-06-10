@@ -1,0 +1,14 @@
+{
+  "C_Cpp.clang_format_fallbackStyle": "LLVM",
+  "editor.formatOnSave": true,
+  "python.analysis.typeCheckingMode": "off",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none",
+  "files.associations": {
+    "*.port": "makefile",
+    "stdio.h": "c",
+    "raft.h": "c"
+  }
+}
