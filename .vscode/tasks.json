@@ -7,9 +7,9 @@
       "args": [
         "-fdiagnostics-color=always",
         "-g",
-        "${file}",
+        "${workspaceFolder}\\c\\main.c",
         "-o",
-        "${fileDirname}\\${fileBasenameNoExtension}.exe",
+        "${workspaceFolder}\\c\\main.exe",
         "-I",
         "${workspaceFolder}\\c\\raft\\include"
       ],
