@@ -11,7 +11,7 @@
         "-o",
         "${fileDirname}\\${fileBasenameNoExtension}.exe",
         "-I",
-        "${workspaceFolder}\\raft\\include"
+        "${workspaceFolder}\\c\\raft\\include"
       ],
       "options": {
         "cwd": "${fileDirname}"
